@@ -1,0 +1,16 @@
+
+{
+    "TOKEN": "",
+    "MONGO_DB": "",
+	"WEBHOOK_URL" : "",
+    "cooldown": true,
+    "owner": [],
+    "bitzxier" : [],
+    "mainmode": [],
+    "premium" : [],
+    "admin": [],
+    "np": [],
+    "invite": "",
+    
+    "baseText": "```ml\n<> - Required Argument | () - Optional Argument```"
+}
